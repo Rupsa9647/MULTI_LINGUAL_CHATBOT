@@ -1,0 +1,750 @@
+[
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0136,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpivo0vc5a.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -10.77599048614502
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpivo0vc5a.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -0.4237864911556244
+      }
+    ],
+    "timestamp": "2025-10-17T14:40:53.482188",
+    "session_id": "ce283cf0",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is the name",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0118,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpsstam8ms.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -9.8096284866333
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpsstam8ms.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -10.548059463500977
+      }
+    ],
+    "timestamp": "2025-10-17T14:46:48.024784",
+    "session_id": "6a94a43b",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "hlw",
+    "bot": "Hello! It seems like you've already said hello a few times. To answer your question, I'm here to help you with any queries you may have. What would you like to know or discuss today?",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0376,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp7x7inwng.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -10.0313720703125
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp7x7inwng.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -9.858559608459473
+      }
+    ],
+    "timestamp": "2025-10-17T14:50:07.585359",
+    "session_id": "6a94a43b",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0136,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpyrliu1b8.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -10.77599048614502
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpyrliu1b8.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -0.4237864911556244
+      }
+    ],
+    "timestamp": "2025-10-17T15:22:51.635377",
+    "session_id": "cb748b99",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is the name",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0118,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpyrliu1b8.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -9.8096284866333
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpyrliu1b8.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -10.548059463500977
+      }
+    ],
+    "timestamp": "2025-10-17T15:23:24.787403",
+    "session_id": "cb748b99",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0159,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpodfli45l.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -10.462252616882324
+      },
+      {
+        "rank": 2,
+        "score": -0.0197,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpodfli45l.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -10.740083694458008
+      }
+    ],
+    "timestamp": "2025-10-17T15:31:24.852274",
+    "session_id": "82affefa",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the name",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.002,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpodfli45l.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -9.484492301940918
+      },
+      {
+        "rank": 2,
+        "score": -0.041,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpodfli45l.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -10.26305866241455
+      }
+    ],
+    "timestamp": "2025-10-17T15:31:59.985263",
+    "session_id": "82affefa",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0136,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp05dzqk3n.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -10.77599048614502
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp05dzqk3n.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -0.4237864911556244
+      }
+    ],
+    "timestamp": "2025-10-17T15:34:38.105939",
+    "session_id": "de425aa2",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is name of the studnt",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.04,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp05dzqk3n.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -11.457502365112305
+      },
+      {
+        "rank": 2,
+        "score": -0.0602,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp05dzqk3n.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -11.473766326904297
+      }
+    ],
+    "timestamp": "2025-10-17T15:38:50.611555",
+    "session_id": "de425aa2",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is the name of the student",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0589,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp5ydv2ppn.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -10.19012451171875
+      },
+      {
+        "rank": 2,
+        "score": -0.1132,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp5ydv2ppn.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -11.368385314941406
+      }
+    ],
+    "timestamp": "2025-10-17T15:39:28.354316",
+    "session_id": "de425aa2",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0046,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp1j55l7__.pdf",
+        "text": "Designed a hybrid recommendation system combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic filtering (KNN). Resolved cold-start issues using dynamic weighting based on user context and deployed the solution as an interactive Flask web application. SKILLS • Python • Machine Learning • Deep Learning • Generative AI Tools • LangChain • SQL • Computer Vision • Natural Language Processing (NLP) • Data Analysis • Data Cleaning Page - 1/1",
+        "rerank_score": -9.742965698242188
+      },
+      {
+        "rank": 2,
+        "score": -0.0097,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp1j55l7__.pdf",
+        "text": "Rupsa Jana rupsajana52@gmail.com | +91 9647572683 | Kolkata CAREER OBJECTIVE Aspiring AI/ML and Data Science professional with hands-on experience in deep learning, feature engineering, and LLM-based projects. Passionate about building intelligent systems that solve real-world problems and deliver measurable impact while continuously learning. WORK EXPERIENCE AI Engineer • Internship Jan 2025 - Jun 2025 Data Core Private Limited, Kolkata Built and fine-tuned deep learning models (MobileNet, Effi",
+        "rerank_score": -10.768309593200684
+      }
+    ],
+    "timestamp": "2025-10-17T15:47:02.831282",
+    "session_id": "d8d8fc85",
+    "pdf_name": "RupsaJana_InternshalaResume (1).pdf"
+  },
+  {
+    "user": "what is the name of the student",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0005,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp1j55l7__.pdf",
+        "text": "Rupsa Jana rupsajana52@gmail.com | +91 9647572683 | Kolkata CAREER OBJECTIVE Aspiring AI/ML and Data Science professional with hands-on experience in deep learning, feature engineering, and LLM-based projects. Passionate about building intelligent systems that solve real-world problems and deliver measurable impact while continuously learning. WORK EXPERIENCE AI Engineer • Internship Jan 2025 - Jun 2025 Data Core Private Limited, Kolkata Built and fine-tuned deep learning models (MobileNet, Effi",
+        "rerank_score": -9.921165466308594
+      },
+      {
+        "rank": 2,
+        "score": -0.036,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp1j55l7__.pdf",
+        "text": "Designed a hybrid recommendation system combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic filtering (KNN). Resolved cold-start issues using dynamic weighting based on user context and deployed the solution as an interactive Flask web application. SKILLS • Python • Machine Learning • Deep Learning • Generative AI Tools • LangChain • SQL • Computer Vision • Natural Language Processing (NLP) • Data Analysis • Data Cleaning Page - 1/1",
+        "rerank_score": -11.163176536560059
+      }
+    ],
+    "timestamp": "2025-10-17T15:48:52.606240",
+    "session_id": "d8d8fc85",
+    "pdf_name": "RupsaJana_InternshalaResume (1).pdf"
+  },
+  {
+    "user": "what is the name of the student",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0589,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpzf4t9u2l.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -10.19012451171875
+      },
+      {
+        "rank": 2,
+        "score": -0.1132,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpzf4t9u2l.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -11.368385314941406
+      }
+    ],
+    "timestamp": "2025-10-17T15:50:08.371285",
+    "session_id": "d8d8fc85",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the name of the student in this document",
+    "bot": "The name of the student in this document is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0781,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp1yzimc_y.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit, HuggingFace, Langchain, Image Processing Developer & Deployment Tools: Git, Github, Doc",
+        "rerank_score": -10.14810562133789
+      },
+      {
+        "rank": 2,
+        "score": -0.0995,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp1yzimc_y.pdf",
+        "text": "• Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic filtering (KNN). • Resolved cold-start issues using dynamic weighting based on user context and deployed the solution as an interactive Flask web application. ",
+        "rerank_score": -10.940564155578613
+      }
+    ],
+    "timestamp": "2025-10-17T15:55:43.658407",
+    "session_id": "7fff3c26",
+    "pdf_name": "Rupsa_Jana_Resume.pdf"
+  },
+  {
+    "user": "what is the name now",
+    "bot": "The name of the student is Rupsa Jana.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0006,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp0me4jomi.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -11.052313804626465
+      },
+      {
+        "rank": 2,
+        "score": -0.041,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp0me4jomi.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -11.03220272064209
+      }
+    ],
+    "timestamp": "2025-10-17T15:58:06.284480",
+    "session_id": "7fff3c26",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the cgpa now",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0142,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp0me4jomi.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -10.910653114318848
+      },
+      {
+        "rank": 2,
+        "score": -0.0197,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp0me4jomi.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -11.243176460266113
+      }
+    ],
+    "timestamp": "2025-10-17T15:58:48.013683",
+    "session_id": "7fff3c26",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0159,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpnany8wn9.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -10.462252616882324
+      },
+      {
+        "rank": 2,
+        "score": -0.0197,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpnany8wn9.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": -10.740083694458008
+      }
+    ],
+    "timestamp": "2025-10-17T16:02:15.911798",
+    "session_id": "49015509",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is sangjuktas cgpa",
+    "bot": "There is no information about Sangjukta Chakrabortty's CGPA in the chat history or the provided context. The chat history only discusses a document about a student named Rupsa Jana, and there is no mention of Sangjukta Chakrabortty.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0319,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpnany8wn9.pdf",
+        "text": "SANGJUKTA CHAKRABORTTY sangjukta960@gmail.com | +91 9339357107 | LinkedIn | Github | Portfolio | Hooghly, West Bengal, India AI enthusiast with hands-on experience in machine learning, LLM fine-tuning, and Cybersecurity. Skilled in building and deploying real-world AI solutions across agriculture, geophysics, and healthcare using tools like TensorFlow, Hugging Face, and PyGlMLi. ❖ WORK EXPERIENCE ➢ University of Calcutta Collaboration with University of Copenhagen, Denmark, Research Intern, Kolk",
+        "rerank_score": 0.35061851143836975
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpnany8wn9.pdf",
+        "text": "(NPK), pH, temperature, and rainfall. Utilized CatBoost, Gaussian SVM, and MLP models to enhance prediction accuracy. The solution is deployed via both Android (Java) and web (Streamlit) applications, offering real-time decision support for sustainable agriculture practices. Currently under review for publication. ❖ PROJECTS ➢ Development of A Deep Learning Model Based Heart Disease Prediction System Using ECG Images ● Developed an ECG image classification model using Convolutional Neural Networ",
+        "rerank_score": -11.283254623413086
+      }
+    ],
+    "timestamp": "2025-10-17T16:09:06.602373",
+    "session_id": "49015509",
+    "pdf_name": "Sangjukta CV_June.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0136,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpisxv31as.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -10.77599048614502
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpisxv31as.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -0.4237864911556244
+      }
+    ],
+    "timestamp": "2025-10-17T16:24:44.045630",
+    "session_id": "9268a074",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is education",
+    "bot": "The education details of Rupsa Jana are as follows:\n\n* Course: B.Tech\n* Discipline/ Branch/ Specialization: Computer Science & Engineering (Data Science)\n* University: The Neotia University\n* CGPA: 9.18",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0167,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpisxv31as.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -7.683156967163086
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpisxv31as.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -11.003181457519531
+      }
+    ],
+    "timestamp": "2025-10-17T16:25:30.790080",
+    "session_id": "9268a074",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "sangjukyats cgpa",
+    "bot": "There is no information about Sangjukta Chakrabortty's CGPA in the chat history or the provided context. The chat history only discusses a document about a student named Rupsa Jana, and there is no mention of Sangjukta Chakrabortty.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0492,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpisxv31as.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -11.442818641662598
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpisxv31as.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -5.920604705810547
+      }
+    ],
+    "timestamp": "2025-10-17T16:26:24.391320",
+    "session_id": "9268a074",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is the document about",
+    "bot": "The document is about Rupsa Jana, a B.Tech student in Computer Science, applying for an internship at the Vikram Sarabhai Space Centre (VSSC) from November 1, 2024, to January 31, 2025. It includes her personal and academic details, a declaration by the student, and a certification by her university.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0208,
+        "language": "sl",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp2eo2lo4k.pdf",
+        "text": "†iwR÷vW© bs wW G-1 evsjv‡`k †M‡RU AwZwi³ msL¨v KZ…©c¶ KZ…©K cÖKvwkZ †mvgevi, †m‡Þ¤^i 9, 2024 \u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \u0005 \u0005 \u000e\u000f \u0010\u0011\u0012\u0005\u0011 \u0013\u0014\u0007\u0015\u0014\u0011\u0016\u000e \u0014 \u0017\u0005\u0001 \u0012\u0014\u0013\u0018 \u0014 \u0016\u0019\u0012 \u001a\u0014\u001b\u000f\u0005 \u0005 www.cabinet.gov.bd \u0003*\u0005\u0015+ ,\u0005\u0012\u0005, ./ \u0017\u00050 1/21 3\u00054/ 67 8\u0010 9:\u0011 .6./ \u0014;<\u00054 +:\u0011- 6/.66.6666.>11.6>.66/../.1?@\u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \u0005 \u0005 \u000e\u000f \u0010\u0011\u0012\u0005\u0011 ‘\u0004\u0005\u0006\b\u0019 \u001aBCD+\u0014\u0006\u0012 \u0015\u0014\u0011\u0016\u000e (F+G\u0014\u0010)’ \u0014+JK \u0015 \u0001L+ \u0012 \u0011 M: (\u0012) \u0015\u0014\u0011\u0016 \u000e\u0011 \u0001L+: (1) O. PQ\u0005R\u000e GST\u0010, \u0003\u001b\u0005+ S\u0015 \u000eU\u0005, \u0001\u0002\u0003\u0004\u0005\u0006\u0007\b \u0005 \u0005 \u000e\u000f \u0010\u0011\u0012\u0005\u0011 : 8V\u0019\u0005\u0011\u0015\u0005\u0011\u0010+ (.) S\u0015 \u000eU\u0005 \u0015\u0014\u0011\u0016 \u000e\u0011 \u0010\u0012 \u0010\u000eW : \u0010\u000eW ( ) \u0010Q\u0005\u0019\u0006\u0005\u000e\u0005+\u0012\u0005\u0011\b \u0012\u0013C\u0012\u0006C\u0005\u0001\u0002: (1) \u0013\u0014\u0007\u0015\u0014\u0011\u0016\u000e \u0010\u0014V (.) PX \u0010\u0014V /\u0010\u0014V",
+        "rerank_score": -10.898568153381348
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmp2eo2lo4k.pdf",
+        "text": "24888 evsjv‡`k †M‡RU, AwZwi³, †m‡Þ¤^i 9, 2024 (\u0001) \u0015\u0014\u0011\u0016 \u000e\u0011 \u0012\u0005YC\u0015\u0014\u0011\u0014\u001b: (1) \u0010\u0005\u0013\u0014b\u0012 \u001aBCD+\u0014\u0006\u0012 Sc\u0019+ \u0012\u0013C\u0012\u0005d \u0010e\u0014\u0012C\u0006 +\b\u0014\u0006 ] 8\u0012f\u000f bQ \u0002 \u0014\u000e\u0012-\u0014+ \u000e C\u000f+\u0005 \u0003\u000e\u0005+; (.) \u000e\bhC \u0013\u0019\u0005\u0014\u000e ] \u0013i \u0013\u0019\u0005\u0014\u000e \u0015\u0014\u0011\u0012[+\u0005, \u0005\u0014\u0016C\u0012 Sc\u0019+ \u0012\u0013Cj\u0014V, \u0010 \u000f\u0005\u0014\u001b\u0006 \u0005\u0014\u0016C\u0012 Sc\u0019+ \u0012\u0013Cj\u0014V ] \u0012\u0013C\u0015k\u0005 lm\u0005^\u0012\u0011\u0002 F \u001an \u0013\u0005\u000e+ \u0003\u000e\u0005+; (2) \u000e\bhC \u0013\u0019\u0005\u0014\u000e ] \u0013i \u0013\u0019\u0005\u0014\u000e \u0015\u0014\u0011\u0012[+\u0005, \u0005\u0014\u0016C\u0012 Sc\u0019+ \u0012\u0013Cj\u0014V, \u0010 \u000f\u0005\u0014\u001b\u0006 \u0005\u0014\u0016C\u0012 Sc\u0019+ \u0012\u0013Cj\u0014V \u0005o \u0005\u0019 +\u0011 \u001ab\u0001\u0014\u0006 \u0015YC\u0005 \u0005V+\u0005; (/) pBC-\u0010\u0005\u0013\u0005\u0014\u0004\u0012 Sc\u0019 + \u0003 \u0019\u0005\u0004+\b\u0019 \u0014\u0010q\u0005^ bQ\u0002 ] \u0014\u000e\u0012-\u0014+ \u000e C\u000f+\u0005 \u0003\u000e\u0005+; F (?) \u0004\u0005\u0006\b\u0019 \u001aBCD+\u0014\u0006\u0012 \u0015\u0014\u0011\u0016 \u000e\u0011 \u000e\u0005\u0014\u0019r \u0015\u0005 + \u0010Q\u0005\u0019\u0012 \u0014 \u0014V\u0006 8Y 8\u0012\u0005 +\u0005 \u0012\u0014\u0013\u0018 \u0001L+। (",
+        "rerank_score": -10.943924903869629
+      }
+    ],
+    "timestamp": "2025-10-17T16:32:37.605816",
+    "session_id": "e7f9b4ba",
+    "pdf_name": "NEC-14.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0136,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpkue3wbjg.pdf",
+        "text": "• Created an AI-powered Career Assistant that fetches job postings via APIs, parses user resumes, and recommends jobs using semantic similarity and embeddings. • Integrated a RAG-based chatbot with LLMs (Llama 3.3-70B) to answer user queries and automated PDF generation for resumes and cover letters. Hybrid Recommendation System W | SVD,KNN,TF-IDF,Flask,Python 2025 • Designed a hybrid recommendation engine combining collaborative filtering (SVD), content-based filtering (TF-IDF), and demographic",
+        "rerank_score": -10.77599048614502
+      },
+      {
+        "rank": 2,
+        "score": -0.0405,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpkue3wbjg.pdf",
+        "text": "RUPSA JANA Hooghly,West Bengal Ó +91-9647572683 R rupsajana52@gmail.com ° Linkedin  Github Aspiring AI/ML and Data Science Fresher with hands-on internship and project experience. EDUCATION The Neotia University, Diamond Harbour 2021 – 2025 B.Tech in Computer Science & Engineering (Data Science) - CGPA - 9.18 Diamond Harbour, West Bengal TECHNICAL SKILLS Languages: Python, SQL, C, Java Technologies/Frameworks: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Flask, Streamlit",
+        "rerank_score": -0.4237864911556244
+      }
+    ],
+    "timestamp": "2025-10-17T16:38:46.895004",
+    "session_id": "9455cccb",
+    "pdf_name": "Rupsa_Jana_Resume_25_sept.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0498,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpmnxpi60m.pdf",
+        "text": "Full-Time Data Scientist Job Assignment: Multilingual PDF RAG System Background Our organization needs to develop a Retrieval-Augmented Generation (RAG) system capable of processing multilingual PDFs, extracting information, and providing summaries and answers to questions based on the content. The system should handle various languages including Hindi, English, Bengali, and Chinese, and be able to process both scanned and digital PDFs. Input - PDFs in multiple languages - English, Bengali, Chin",
+        "rerank_score": -10.191657066345215
+      },
+      {
+        "rank": 2,
+        "score": -0.084,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpmnxpi60m.pdf",
+        "text": "Evaluation 1. Query Relevance- The extent to which search results match the user's query, ensuring that the information provided aligns with user intent. 2. Retrieval test- Whether the chunks returned matched with the context of the query. 3. Latency- The time it takes for a search engine to return results after a query is submitted, with lower latency contributing to a better user experience. 4. Fluency- The clarity and coherence of how information is presented, including readability and organi",
+        "rerank_score": -9.774195671081543
+      }
+    ],
+    "timestamp": "2025-10-17T16:45:22.111833",
+    "session_id": "667ac588",
+    "pdf_name": "data-scientist-job-assignment.pdf"
+  },
+  {
+    "user": "what is the cgpa ?",
+    "bot": "Rupsa Jana's CGPA is 9.18.",
+    "context": [
+      {
+        "rank": 1,
+        "score": -0.0498,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpht6svl53.pdf",
+        "text": "Full-Time Data Scientist Job Assignment: Multilingual PDF RAG System Background Our organization needs to develop a Retrieval-Augmented Generation (RAG) system capable of processing multilingual PDFs, extracting information, and providing summaries and answers to questions based on the content. The system should handle various languages including Hindi, English, Bengali, and Chinese, and be able to process both scanned and digital PDFs. Input - PDFs in multiple languages - English, Bengali, Chin",
+        "rerank_score": -10.191657066345215
+      },
+      {
+        "rank": 2,
+        "score": -0.084,
+        "language": "en",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpht6svl53.pdf",
+        "text": "Evaluation 1. Query Relevance- The extent to which search results match the user's query, ensuring that the information provided aligns with user intent. 2. Retrieval test- Whether the chunks returned matched with the context of the query. 3. Latency- The time it takes for a search engine to return results after a query is submitted, with lower latency contributing to a better user experience. 4. Fluency- The clarity and coherence of how information is presented, including readability and organi",
+        "rerank_score": -9.774195671081543
+      }
+    ],
+    "timestamp": "2025-10-17T16:47:42.376081",
+    "session_id": "80d10aac",
+    "pdf_name": "data-scientist-job-assignment.pdf"
+  },
+  {
+    "user": "hii",
+    "bot": "Hello! It seems like you've already said hello a few times. To recap, we were discussing a document about a student, Rupsa Jana, applying for an internship at the Vikram Sarabhai Space Centre (VSSC). Is there anything else you'd like to know or any other way I can assist you today?",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.042,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার 'আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় 'লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ 'তথ্য অধিকার বিষয়ক প্রশিক্ষণ প্রশিক্ষণার্থীদের 巡 রা রে মারে ee পা জসিম হোসেন c | x m রান এ ] | 。 |mmgm ae 一 রামের tee ‏جس گج‎ 一 ﹁ z mrwmmm 」 ‏وس ییسو‎ I L E | ( m cae ‏تی ھی‎ E C ‏اچوس‎ ‎लि m | een] = ‏تا‎ ] = S ‏لئ‎ यो 5 3 ‏جپوجہج‎ ۴1۴ ‏اچم‎ মোহাম্মদ ছালেছ উদ্দিন ‏سی یھو‎ 3 臚‵ 陑 সহায়ক [Sean E ﹒ [see at 一一 amg 一 | m rn | जज 一 厂 S |mrggg ﹌ 一 ‏نجوس‎ 一 ﹁ s ‏ہم ہے‎ ˍ ﹁ smw ﹍ ﹍ | # 一 | m ‏تیووس‎ ‎टिक",
+        "rerank_score": -8.362327575683594
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "sera বাংলাদেশ সরকার 'আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় 'লেজিসলোটিভ ও সংসদ বিষয়ক বিভাগ প্রশিক্ষণ ও প্রতিবেদন শাখা বাংলাদেশ সচিবালয়, ঢাকা www.legislativedi.gor.bd e তারি: ১২ সেপ্টে, ২০১৪ 0۴ বিষয়: লেিসলোটভ ও সংসদ বিষয়ক বিভাগের কর্মচারীদের তথ্য অধিকার বিষয়ে প্রশিক্ষণ আয়োজন সংক্রান্ত উপযুক্ত বিষয়ে নির্দেশিত হয়ে জানানো যাচ্ছে যে, আগারী ১৯ সেপ্টেম্বর, ২০২৪ FHA ভারিখে আইন, বিচার ও সংসদ বিষয়ক মনত্রালয়ের সভাকক্ষে লেভিসলেটিভ ও সংসদ বিষয়ক বিভাগের কর্মচারীদের তথ্য অধিকার বিষয়ে প্রশিক্ষণ ‏وک‎ হ",
+        "rerank_score": -8.070521354675293
+      },
+      {
+        "rank": 3,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "সিনিয়র সহকারী সচিব, বিচার শাখা-৫, আইন ও বিচার বিভাগ (১৯ সেপ্টেম্বর ২০২৪ 95۷ তারিখে সভাকক্ষ খোলা রাখার প্রয়োজনীয় ব্যবস্থা প্রহণের অনুরোধসহ)। ‎সচিব, লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ/‏ چس ‎মহোদয়ের‏ درد ‎sz সচিব (ডাফটিং-৫), লেজিসলেটিড ও সংসদ বিষয়ক বিভাগ। ‎cera, লেভিসলেটিভ ও সংসদ বিষয়ক বিভাগ (ওয়েবসাইটে প্রকাশের অনুরোধসহ)।‏ 2 <وکرنع ‎Zi যুগ্মসচিব (STRAY প্রশিক্ষণ ও প্রতিবেদন শাখা) মহোদয়ের दाद কর্মকর্তা, RS ও সংসদ বিষয়ক বিভাগ ‎7 ‏سس‎ ‥ ফটোকপি wmmwamm রাইডার/অফিস সহায়ক, লেজিসলেটিভ ও সংসদ বিষয়ক ",
+        "rerank_score": -7.850296974182129
+      },
+      {
+        "rank": 4,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "গণপ্রজাতনত্রী বাংলাদেশ সরকার আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় ‏نس سب‎ সংসদ বিষয়ক বিভাগ তথ্য অধিকার বিষয়ে কর্মচারীদের প্রশিক্ষণ কোর্স সিডিউল تج ‎awm‏ মঞ্চ [ননদ | sem বাধ্যতামূলক on | প্রশিক্ষণেরবিষয় sm | প্রশিক্ষণ বিষয়ক স্বাগত ‏سوہ‎ বং BT |e চাছিদার Rice eer তথয, তথ্য প্রন ও | | pmmasmaaw | তথ্য প্রদানের ×۵۷ কর্মকর্তা | লেছিসলেটিড ও ‏سد‎ বিষম ‏جج‎ | নয় এমন তথ্য এবং তথ্য | Egmmg ] | | অবহেলার ‏مہ‎ ﹒ carers সময়সূচি ও স্থান পরিবর্তন হতে পারে; ﹒ | | | Seusw | ses তথ্যে ea | | | = xwmw ﹣ 2 一",
+        "rerank_score": -8.218273162841797
+      }
+    ],
+    "timestamp": "2025-10-17T17:30:01.252520",
+    "session_id": "708d65a6",
+    "pdf_name": "15092024_142.pdf"
+  },
+  {
+    "user": "tell me about the document",
+    "bot": "The document is about Rupsa Jana, a B.Tech student in Computer Science, applying for an internship at the Vikram Sarabhai Space Centre (VSSC) from November 1, 2024, to January 31, 2025. It includes her personal and academic details, a declaration by the student, and a certification by her university.",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.0276,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "গণপ্রজাতনত্রী বাংলাদেশ সরকার আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় ‏نس سب‎ সংসদ বিষয়ক বিভাগ তথ্য অধিকার বিষয়ে কর্মচারীদের প্রশিক্ষণ কোর্স সিডিউল تج ‎awm‏ মঞ্চ [ননদ | sem বাধ্যতামূলক on | প্রশিক্ষণেরবিষয় sm | প্রশিক্ষণ বিষয়ক স্বাগত ‏سوہ‎ বং BT |e চাছিদার Rice eer তথয, তথ্য প্রন ও | | pmmasmaaw | তথ্য প্রদানের ×۵۷ কর্মকর্তা | লেছিসলেটিড ও ‏سد‎ বিষম ‏جج‎ | নয় এমন তথ্য এবং তথ্য | Egmmg ] | | অবহেলার ‏مہ‎ ﹒ carers সময়সূচি ও স্থান পরিবর্তন হতে পারে; ﹒ | | | Seusw | ses তথ্যে ea | | | = xwmw ﹣ 2 一",
+        "rerank_score": -9.467208862304688
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "sera বাংলাদেশ সরকার 'আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় 'লেজিসলোটিভ ও সংসদ বিষয়ক বিভাগ প্রশিক্ষণ ও প্রতিবেদন শাখা বাংলাদেশ সচিবালয়, ঢাকা www.legislativedi.gor.bd e তারি: ১২ সেপ্টে, ২০১৪ 0۴ বিষয়: লেিসলোটভ ও সংসদ বিষয়ক বিভাগের কর্মচারীদের তথ্য অধিকার বিষয়ে প্রশিক্ষণ আয়োজন সংক্রান্ত উপযুক্ত বিষয়ে নির্দেশিত হয়ে জানানো যাচ্ছে যে, আগারী ১৯ সেপ্টেম্বর, ২০২৪ FHA ভারিখে আইন, বিচার ও সংসদ বিষয়ক মনত্রালয়ের সভাকক্ষে লেভিসলেটিভ ও সংসদ বিষয়ক বিভাগের কর্মচারীদের তথ্য অধিকার বিষয়ে প্রশিক্ষণ ‏وک‎ হ",
+        "rerank_score": -9.067577362060547
+      },
+      {
+        "rank": 3,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "সিনিয়র সহকারী সচিব, বিচার শাখা-৫, আইন ও বিচার বিভাগ (১৯ সেপ্টেম্বর ২০২৪ 95۷ তারিখে সভাকক্ষ খোলা রাখার প্রয়োজনীয় ব্যবস্থা প্রহণের অনুরোধসহ)। ‎সচিব, লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ/‏ چس ‎মহোদয়ের‏ درد ‎sz সচিব (ডাফটিং-৫), লেজিসলেটিড ও সংসদ বিষয়ক বিভাগ। ‎cera, লেভিসলেটিভ ও সংসদ বিষয়ক বিভাগ (ওয়েবসাইটে প্রকাশের অনুরোধসহ)।‏ 2 <وکرنع ‎Zi যুগ্মসচিব (STRAY প্রশিক্ষণ ও প্রতিবেদন শাখা) মহোদয়ের दाद কর্মকর্তা, RS ও সংসদ বিষয়ক বিভাগ ‎7 ‏سس‎ ‥ ফটোকপি wmmwamm রাইডার/অফিস সহায়ক, লেজিসলেটিভ ও সংসদ বিষয়ক ",
+        "rerank_score": -9.183377265930176
+      },
+      {
+        "rank": 4,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpc4f5q4lf.pdf",
+        "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার 'আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় 'লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ 'তথ্য অধিকার বিষয়ক প্রশিক্ষণ প্রশিক্ষণার্থীদের 巡 রা রে মারে ee পা জসিম হোসেন c | x m রান এ ] | 。 |mmgm ae 一 রামের tee ‏جس گج‎ 一 ﹁ z mrwmmm 」 ‏وس ییسو‎ I L E | ( m cae ‏تی ھی‎ E C ‏اچوس‎ ‎लि m | een] = ‏تا‎ ] = S ‏لئ‎ यो 5 3 ‏جپوجہج‎ ۴1۴ ‏اچم‎ মোহাম্মদ ছালেছ উদ্দিন ‏سی یھو‎ 3 臚‵ 陑 সহায়ক [Sean E ﹒ [see at 一一 amg 一 | m rn | जज 一 厂 S |mrggg ﹌ 一 ‏نجوس‎ 一 ﹁ s ‏ہم ہے‎ ˍ ﹁ smw ﹍ ﹍ | # 一 | m ‏تیووس‎ ‎टिक",
+        "rerank_score": -9.472635269165039
+      }
+    ],
+    "timestamp": "2025-10-17T17:30:16.486423",
+    "session_id": "708d65a6",
+    "pdf_name": "15092024_142.pdf"
+  },
+  {
+    "user": "hi",
+    "bot": "Hello! It seems like you've already said hello a few times. To recap, we were discussing a document about a student, Rupsa Jana, applying for an internship at the Vikram Sarabhai Space Centre (VSSC). Is there anything else you'd like to know or any other way I can assist you today?",
+    "context": [
+      {
+        "rank": 1,
+        "score": 0.029,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpfj95ne_n.pdf",
+        "text": "গণপ্রজাতন্ত্রী বাংলাদেশ সরকার 'আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় 'লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ 'তথ্য অধিকার বিষয়ক প্রশিক্ষণ প্রশিক্ষণার্থীদের 巡 রা রে মারে ee পা জসিম হোসেন c | x m রান এ ] | 。 |mmgm ae 一 রামের tee ‏جس گج‎ 一 ﹁ z mrwmmm 」 ‏وس ییسو‎ I L E | ( m cae ‏تی ھی‎ E C ‏اچوس‎ ‎लि m | een] = ‏تا‎ ] = S ‏لئ‎ यो 5 3 ‏جپوجہج‎ ۴1۴ ‏اچم‎ মোহাম্মদ ছালেছ উদ্দিন ‏سی یھو‎ 3 臚‵ 陑 সহায়ক [Sean E ﹒ [see at 一一 amg 一 | m rn | जज 一 厂 S |mrggg ﹌ 一 ‏نجوس‎ 一 ﹁ s ‏ہم ہے‎ ˍ ﹁ smw ﹍ ﹍ | # 一 | m ‏تیووس‎ ‎टिक",
+        "rerank_score": -7.849343776702881
+      },
+      {
+        "rank": 2,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpfj95ne_n.pdf",
+        "text": "sera বাংলাদেশ সরকার 'আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় 'লেজিসলোটিভ ও সংসদ বিষয়ক বিভাগ প্রশিক্ষণ ও প্রতিবেদন শাখা বাংলাদেশ সচিবালয়, ঢাকা www.legislativedi.gor.bd e তারি: ১২ সেপ্টে, ২০১৪ 0۴ বিষয়: লেিসলোটভ ও সংসদ বিষয়ক বিভাগের কর্মচারীদের তথ্য অধিকার বিষয়ে প্রশিক্ষণ আয়োজন সংক্রান্ত উপযুক্ত বিষয়ে নির্দেশিত হয়ে জানানো যাচ্ছে যে, আগারী ১৯ সেপ্টেম্বর, ২০২৪ FHA ভারিখে আইন, বিচার ও সংসদ বিষয়ক মনত্রালয়ের সভাকক্ষে লেভিসলেটিভ ও সংসদ বিষয়ক বিভাগের কর্মচারীদের তথ্য অধিকার বিষয়ে প্রশিক্ষণ ‏وک‎ হ",
+        "rerank_score": -7.643233299255371
+      },
+      {
+        "rank": 3,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpfj95ne_n.pdf",
+        "text": "সিনিয়র সহকারী সচিব, বিচার শাখা-৫, আইন ও বিচার বিভাগ (১৯ সেপ্টেম্বর ২০২৪ 95۷ তারিখে সভাকক্ষ খোলা রাখার প্রয়োজনীয় ব্যবস্থা প্রহণের অনুরোধসহ)। ‎সচিব, লেজিসলেটিভ ও সংসদ বিষয়ক বিভাগ/‏ چس ‎মহোদয়ের‏ درد ‎sz সচিব (ডাফটিং-৫), লেজিসলেটিড ও সংসদ বিষয়ক বিভাগ। ‎cera, লেভিসলেটিভ ও সংসদ বিষয়ক বিভাগ (ওয়েবসাইটে প্রকাশের অনুরোধসহ)।‏ 2 <وکرنع ‎Zi যুগ্মসচিব (STRAY প্রশিক্ষণ ও প্রতিবেদন শাখা) মহোদয়ের दाद কর্মকর্তা, RS ও সংসদ বিষয়ক বিভাগ ‎7 ‏سس‎ ‥ ফটোকপি wmmwamm রাইডার/অফিস সহায়ক, লেজিসলেটিভ ও সংসদ বিষয়ক ",
+        "rerank_score": -7.569784641265869
+      },
+      {
+        "rank": 4,
+        "score": 0.0,
+        "language": "bn",
+        "source_file": "C:\\Users\\pc\\AppData\\Local\\Temp\\tmpfj95ne_n.pdf",
+        "text": "গণপ্রজাতনত্রী বাংলাদেশ সরকার আইন, বিচার ও সংসদ বিষয়ক মন্ত্রণালয় ‏نس سب‎ সংসদ বিষয়ক বিভাগ তথ্য অধিকার বিষয়ে কর্মচারীদের প্রশিক্ষণ কোর্স সিডিউল تج ‎awm‏ মঞ্চ [ননদ | sem বাধ্যতামূলক on | প্রশিক্ষণেরবিষয় sm | প্রশিক্ষণ বিষয়ক স্বাগত ‏سوہ‎ বং BT |e চাছিদার Rice eer তথয, তথ্য প্রন ও | | pmmasmaaw | তথ্য প্রদানের ×۵۷ কর্মকর্তা | লেছিসলেটিড ও ‏سد‎ বিষম ‏جج‎ | নয় এমন তথ্য এবং তথ্য | Egmmg ] | | অবহেলার ‏مہ‎ ﹒ carers সময়সূচি ও স্থান পরিবর্তন হতে পারে; ﹒ | | | Seusw | ses তথ্যে ea | | | = xwmw ﹣ 2 一",
+        "rerank_score": -7.837517261505127
+      }
+    ],
+    "timestamp": "2025-10-17T17:55:46.120005",
+    "session_id": "6caf7ba0",
+    "pdf_name": "15092024_142.pdf"
+  }
+]

@@ -1,0 +1,21 @@
+numpy
+pandas
+pymupdf        # For PDF text extraction (fitz)
+Pillow           # For image processing during OCR
+pytesseract     # OCR engine for scanned PDFs
+langdetect
+langchain
+# For basic text manipulation and Path handling
+pydantic
+pathlib
+streamlit
+# Sentence embeddings (multilingual)
+sentence-transformers
+torch
+
+# Vector database
+faiss-cpu # or faiss-gpu==1.7.4 if you have GPU
+
+# Optional: progress bar
+tqdm
+
