@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Last Updated:** October 2025  
-**Author:** [Your Name / Team Name]
+**Author:** Rupsa Jana
 
 ---
 
@@ -14,7 +14,7 @@ The **Multilingual RAG Chatbot** is an AI system that allows users to upload PDF
 
 ## Features
 
-- Upload multiple PDFs and process them into chunks.
+- Upload both scanned or digital PDFs and process them into chunks.
 - Embedding of chunks using Sentence Transformers.
 - FAISS-based semantic search.
 - BM25 keyword-based search.
@@ -43,7 +43,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 
-## Requirements
+## API KEY
 GOOGLE_API_KEY=your_google_gemini_api_key_here
 
 
@@ -51,13 +51,9 @@ GOOGLE_API_KEY=your_google_gemini_api_key_here
 
 Upload PDFs in the sidebar and click Process PDF(s).
 
-Select an active PDF from the processed list.
-
 Ask questions in the chat input box.
 
 The AI will retrieve relevant chunks, rerank them, and generate responses.
-
-Switch PDFs to chat with different documents.
 
 Previous sessions are displayed in the sidebar.
 
